@@ -1,0 +1,7 @@
+Homework Assignment 3: Movie Database
+
+Before starting this assignment, please keep in mind:
+
+Put your assignment in a default package (or delete the package line when submitting your assignment).
+Do not create a subfolder within Vocareum.
+Make sure you don't ask for user input anywhere but the main method. Not only will this make our tests fail, but it's also good programming practice to ask for user input only in the main method.
